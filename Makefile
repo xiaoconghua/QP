@@ -11,7 +11,7 @@
 # Complete this to make it ! #
 ##############################
 NAME 	= qp	# Name of executable file
-SRC	= uQuadProg++.cc umain.cc EigenQP.cpp	# List of *.c
+SRC	= uQuadProg++.cc umain.cc EigenQP.cc	# List of *.c
 INCL  	= uQuadProg++.hh EigenQP.h		# List of *.h
 ################
 # Optional add #
